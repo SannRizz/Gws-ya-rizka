@@ -46,7 +46,7 @@ a.goto(-2,75)
 a.pendown()
 a.color("red")
 style = ('courier',10,'italic')
-a.write('Rizka',font=style,align='left')
+a.write('Khesyaaa ',font=style,align='left')
 a.hideturtle()
 
 a = turtle.Turtle()
