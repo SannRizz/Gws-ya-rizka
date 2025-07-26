@@ -1,2 +1,2 @@
 # khesyaaa
-Cepat sembuh
+bungaa buat kamuuuu
